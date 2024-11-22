@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/task-Media/task-Media.iml" filepath="$PROJECT_DIR$/task-Media/task-Media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-array-negative/task-array-negative.iml" filepath="$PROJECT_DIR$/task-array-negative/task-array-negative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-arrays-positives/task-arrays-positives.iml" filepath="$PROJECT_DIR$/task-arrays-positives/task-arrays-positives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task-employee/task-employee.iml" filepath="$PROJECT_DIR$/task-employee/task-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasks-course-nelioalves.iml" filepath="$PROJECT_DIR$/tasks-course-nelioalves.iml" />
+    </modules>
+  </component>
+</project>
